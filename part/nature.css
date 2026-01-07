@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(to top,rgb(140, 140, 213),rgb(126, 223, 207));
+}
+.nature{
+    display: block;
+    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: rgb(251, 247, 247);
+    box-shadow: 0 0 20px rgb(215, 197, 197);
+    border-radius: 10px;
+    padding: 15px;
+
+}
+
+.filter-gradient{
+    
+}
+
+.gradient-box{
+    box-shadow: 0 0 20px rgb(215, 197, 197);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.linear-gradient{
+    background: linear-gradient(to right, rgb(189, 226, 248),rgb(18, 241, 171));
+}
+
+.radial-gradient{
+    background: radial-gradient(rgb(248, 47, 104),wheat);
+}
+
+.conic-gradient{
+    background: conic-gradient(from 180deg,rgb(237, 168, 41),wheat);
+}
